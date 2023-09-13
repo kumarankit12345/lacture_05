@@ -1,0 +1,15 @@
+.cards{
+    width: 30%;
+    padding: 25px;
+    margin: auto;
+    box-shadow: 5px 5px 5px;
+}
+.container{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    
+
+}
